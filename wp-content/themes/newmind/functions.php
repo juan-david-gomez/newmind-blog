@@ -11,6 +11,7 @@
 		    // // additional image sizes
 		    // // delete the next line if you do not need additional image sizes
 		    add_image_size( 'thumb1200*400', 1200, 400, true );
+		    add_image_size( 'thumb360*280', 360, 280, true );
 		    // add_image_size( 'category-full', 783, 290, true );
 		}
 	
